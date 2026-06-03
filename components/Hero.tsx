@@ -38,9 +38,7 @@ export default function Hero() {
         className="z-10"
       >
         <span className="text-xs uppercase tracking-[0.3em] text-wedding-charcoal/60 block mb-4">Vă invităm la nunta noastră</span>
-        <h1 className="font-serif text-5xl md:text-8xl text-wedding-gold my-6 animate-fade-in italic tracking-tight">
-  Roberto <span className="font-light">&</span> Amelia
-</h1>>
+        <h1 className="font-serif text-4xl md:text-8xl text-wedding-charcoal my-6 animate-fade-in italic px-2 break-words leading-tight"> Roberto & Amelia</h1>
         <p className="font-heading text-2xl md:text-3xl tracking-widest uppercase mb-2">6 Septembrie 2026</p>
         <p className="font-heading text-xl text-wedding-gold italic mb-12">Conac Polizu, Iași</p>
 
