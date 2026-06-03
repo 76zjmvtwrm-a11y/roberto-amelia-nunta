@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #F6F0E8;
+  --foreground: #2D2D2D;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  overflow-x: hidden;
+}
+
+.watercolor-mountain {
+  mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
+}
+
+.gold-border {
+  border: 1px solid #D4AF37;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
