@@ -16,7 +16,7 @@ export default function Welcome() {
             „Iar acum rămân acestea trei: credința, nădejdea și dragostea.”
           </p>
           <p className="font-heading italic text-2xl md:text-3xl text-wedding-gold">
-            „Ajutorul meu vine de la ”Dar cea mai mare dintre ele este dragostea."
+            „Dar cea mai mare dintre ele este dragostea."
           </p>
           <p className="font-body text-xs uppercase tracking-[0.2em] opacity-60 pt-2">1 Corinteni 13:13</p>
         </div>
